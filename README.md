@@ -1,5 +1,7 @@
 # Mini - AI
 
+React Project
+
 ## Setup Procedure
 
 - Copy .env.example to .env
